@@ -3,7 +3,7 @@
 // additional code editing by aaron montoya-moraga
 // for moma workshop 2019
 // october 2019
-// v1.0.0
+// v1.0.1
 
 // variables for debugging
 let isConsoleOn = false;
@@ -32,7 +32,7 @@ let numberSquaresX = 15;
 // percentage of how big the square is
 let percentageWidth = 0.9;
 // rounded corner radius of squares\
-let squareRadius = 7;
+let squareRadius = 20;
 
 // user interface variables
 let buttonStart = document.getElementById("buttonStart");
